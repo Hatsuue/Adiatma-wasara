@@ -1,6 +1,7 @@
-# Welcome to My source code Portofolio 
-# SILAHKAN DIGUNAKAN UNTK KEBUTUHAN PRIBADI SEPERTI PORTOFOLIO DLL
-# My Portofoio https://hatsuue.github.io/Adiatma-wasara/
+# 👋 Halo, saya Adiatma Wasara
 
+Saya adalah mahasiswa **Teknik Informatika** yang sedang bertransisi dari dunia kerja ke dunia teknologi.  
+Sebelumnya, saya memiliki pengalaman sebagai **staf pelaksana, admin logistik, kurir, dan desainer**, yang telah membentuk kemampuan saya dalam bekerja secara mandiri maupun dalam tim.
+---
 
-# Bahan yang saya gunakan HTML,CSS,JS,IMAGES,PYTHON
+> _. silahkan digunakan untuk kebuuhan portofolio anda_
